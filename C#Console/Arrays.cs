@@ -17,16 +17,16 @@ class Arrays
 
         int[] grades = new int[5];
 
-        grades(0) = 85;
-        grades(1) = 90;
-        grades(2) = 78;
-        grades(3) = 88;
-        grades(4) = 69;
+        grades[0] = 85;
+        grades[1] = 90;
+        grades[2] = 78;
+        grades[3] = 88;
+        grades[4] = 69;
         
-        Console.WriteLine{"Grades "};
+        Console.WriteLine("Grades ");
         for(int i = 0; i < grades.Length; i++)
         {
-            Console.WriteLine
+            Console.WriteLine(grades[i]);
         }
     }
 }
