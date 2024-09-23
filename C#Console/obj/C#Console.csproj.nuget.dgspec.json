@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\c# console\\C#Console\\C#Console.csproj": {}
+    "C:\\Users\\26jeffersoat\\Documents\\GitHub\\C-console\\C#Console\\C#Console.csproj": {}
   },
   "projects": {
-    "H:\\c# console\\C#Console\\C#Console.csproj": {
+    "C:\\Users\\26jeffersoat\\Documents\\GitHub\\C-console\\C#Console\\C#Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\c# console\\C#Console\\C#Console.csproj",
+        "projectUniqueName": "C:\\Users\\26jeffersoat\\Documents\\GitHub\\C-console\\C#Console\\C#Console.csproj",
         "projectName": "C#Console",
-        "projectPath": "H:\\c# console\\C#Console\\C#Console.csproj",
+        "projectPath": "C:\\Users\\26jeffersoat\\Documents\\GitHub\\C-console\\C#Console\\C#Console.csproj",
         "packagesPath": "C:\\Users\\26jeffersoat\\.nuget\\packages\\",
-        "outputPath": "H:\\c# console\\C#Console\\obj\\",
+        "outputPath": "C:\\Users\\26jeffersoat\\Documents\\GitHub\\C-console\\C#Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\26jeffersoat\\AppData\\Roaming\\NuGet\\NuGet.Config"

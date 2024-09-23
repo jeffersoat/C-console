@@ -21,6 +21,7 @@ class Program
       // Loops.NestedLoops();
       // Loops.dowhile();
      // Arrays.Array1(args);
-     List.List1(args);
+     //List.List1(args);
+     Dictionary1.Dict1(args);
     }
 }
