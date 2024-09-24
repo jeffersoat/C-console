@@ -1,11 +1,16 @@
-﻿using System.Runtime.InteropServices;
-
-namespace C_console;
+﻿using MyCalculatorApp;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
+      Calculator calculator = new Calculator();
+      Console.WriteLine("Add(int, int): " + calculator.Add(3,4));
+      Console.WriteLine("Add(int, int, int): " + calculator.Add(4,7,12));
+       Console.WriteLine("Add(double, double,): " + calculator.Add(3.7,5.9));
+    }
+
+    
       //Console.WriteLine("Hello, World!");
       //Var.MyVar();  
       // Var.DataType();
@@ -22,6 +27,5 @@ class Program
       // Loops.dowhile();
      // Arrays.Array1(args);
      //List.List1(args);
-     Dictionary1.Dict1(args);
-    }
+    //  Dictionary1.Dict1(args);
 }
